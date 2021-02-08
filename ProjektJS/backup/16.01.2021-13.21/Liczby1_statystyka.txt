@@ -1,0 +1,4 @@
+Iloœæ par zaprzyjaŸnionych: 5
+Iloœæ par niezaprzyjaŸnionych: 4
+Iloœæ par przeszukanych: 9
+Iloœæ par, które by³y tymi samymi liczbami: 1
